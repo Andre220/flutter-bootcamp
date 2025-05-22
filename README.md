@@ -1,37 +1,16 @@
-# Flutter Bootcamp 🚀
+# app
 
-Bem-vindo ao repositório do **Flutter Bootcamp**!
-Este projeto tem como objetivo me colocar em "forma" para voltar a criar aplicações com Flutter + Dart.
+A new Flutter project.
 
-## 💻 Extrutura
+## Getting Started
 
- - Tela 1: Lista de Tarefas
- - Tela 2: Criar Tarefa
- - Tela 3: Detalhes da Tarefa
+This project is a starting point for a Flutter application.
 
-## 📚 CONCEITOS ABORDADOS:
+A few resources to get you started if this is your first Flutter project:
 
- * ✅ StatelessWidget e StatefulWidget
- * ✅ Navegação entre telas (Navigator)
- * ✅ ListView, TextField, ElevatedButton, AppBar
- * ✅ Controle de estado com setState()
- * ✅ Layout com Column, Row, Padding, etc
- * ✅ Comunicação entre telas
- * ✅ Organização mínima por arquivos e funções
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 💻 Tecnologias
-
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
-
-## 🛠️ Como rodar o projeto
-
-```bash
-# Clone este repositório
-git clone https://github.com/andre220/flutter-bootcamp.git
-
-# Entre na pasta do projeto
-cd flutter-bootcamp
-
-# Rode o app (após configurar o Flutter)
-flutter run
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
